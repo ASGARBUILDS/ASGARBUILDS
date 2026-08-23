@@ -23,4 +23,5 @@
 
 ---
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=ASGARBUILDS&show_icons=true
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ASGARBUILDS&show_icons=true&theme=radical
